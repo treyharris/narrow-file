@@ -1,0 +1,4 @@
+#!/usr/bin/env perl
+
+use NarrowFile;
+NarrowFile->new_with_command->run();
